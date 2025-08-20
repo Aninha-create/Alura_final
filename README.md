@@ -115,6 +115,15 @@ Com base nos insights obtidos, a TelecomX pode adotar as seguintes ações para 
 
 A TelecomX pode transformar dados em decisões estratégicas com impacto direto na retenção. Ao unir modelagem preditiva com ações práticas, é possível antecipar comportamentos e construir uma relação mais duradoura com seus clientes.
 
+## 👩‍💻 Sobre a Autora
 
+**Ana Rachel Rodrigues da Costa**  
+
+📍 Sorocaba, SP – Brasil  
+📧 Email: anasophiaerajh@gmail.com
+🔗 LinkedIn: [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/ana-rachel-rodrigues-da-costa-analista-de-dados/)
+
+Este projeto foi desenvolvido como parte de minha formação e prática em modelagem preditiva, com foco em retenção de clientes no setor de telecomunicações.  
+Fico à disposição para feedbacks ou oportunidades de melhoria contínua!
 
 ---
